@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1579/trunk/demos/vector-pinball/gdx-vectorpinball-android/libs/armeabi-v7a
+END
+libgdx.so
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/1579/trunk/demos/vector-pinball/gdx-vectorpinball-android/libs/armeabi-v7a/libgdx.so
+END
+libandroidgl20.so
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/1083/trunk/demos/vector-pinball/gdx-vectorpinball-android/libs/armeabi-v7a/libandroidgl20.so
+END
